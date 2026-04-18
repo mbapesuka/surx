@@ -1,8 +1,6 @@
 {
   "tokens": [
-    "7748286756:AAHPVJGAHyBwCi27RD2ggxoOrnLR8HKiKHg",
-    "8037077770:AAF7JU39HyW3IHnjV2GKKp3z4beQXiVQmOY",
-    "8111697633:AAGLKsaH2efNzTDKrzNBMUOtZcuWkaSgDPo",
-    "8738541548:AAH9CcktkSyM-AHjTJwMYxsEmoVynKKXSao"
+    "token gua",
+    "7869030576:AAHvEKsAMr1yBpjB4ShSmm6QbAxiraRF4qE"
   ]
 }
